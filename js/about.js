@@ -5,7 +5,7 @@ let about = `
   </div>
   <div class="row">
     <div class="col-3" style="text-align:center">
-      <div> <img src="/Single-Page-Application/img/img1.jpg" alt="Person Picture" style="border-radius:50%; width: 70%;"></div>
+      <div> <img src="/Single-Page-Application-Using-Routes/img/img1.jpg" alt="Person Picture" style="border-radius:50%; width: 70%;"></div>
       <div class="">
         <div>
           <label>

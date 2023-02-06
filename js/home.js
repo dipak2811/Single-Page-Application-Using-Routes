@@ -16,6 +16,31 @@ let home = `
                         <div class="col-6">I've spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
                         <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
                     </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">This spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
+                        <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">I've spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
+                        <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">This spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
+                        <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">I've spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
+                        <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">This spent over a decade working with teams to ship<br> products that delight users and advance<br> organizations’ goals. And so on...</div>
+                        <div class="col-6">Staff UX Design Lead @Verily. Previously Head of<br> Design @Admithub, Chief Design Officer<br> @BevSpot, Lecturer @Northeastern</div>
+                    </div>
                 </div>
             </div>
         </div>
